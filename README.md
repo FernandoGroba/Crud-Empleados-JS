@@ -4,6 +4,14 @@ Un simple proyecto de aplicación **CRUD** (*Create, Read, Update, Delete*) para
 
 ---
 
+## 🖥️ Vista Previa
+
+<p align="center">
+  <img src="prevista.png" alt="Captura de pantalla de la aplicación CRUD de empleados" width="800"/>
+</p>
+
+---
+
 ## 🚀 Tecnologías Utilizadas
 
 | Tecnología | Propósito | Notas |
@@ -53,8 +61,6 @@ La lógica central de la aplicación está contenida en el bloque `<script>` den
 * La lista de empleados se mantiene exclusivamente en la **estructura DOM de la tabla**.
 * Se utiliza una variable **`contadorID`** para asignar un ID único a cada fila (`data-id` y la celda `<td>`), garantizando identificadores secuenciales.
 
-  <img width="532" height="1892" alt="Frame 2" src="prevista.png" />
-
 ---
 
 ## 🖥️ Cómo Ejecutar el Proyecto
@@ -67,5 +73,3 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
     ```
 2.  Navega a la carpeta del proyecto.
 3.  Abre el archivo `index.html` directamente en tu navegador.
-````
-
