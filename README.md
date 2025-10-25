@@ -6,9 +6,9 @@ Un simple proyecto de aplicación **CRUD** (*Create, Read, Update, Delete*) para
 
 ## 🖥️ Vista Previa
 
-<p align="center">
+
   <img src="prevista.png" alt="Captura de pantalla de la aplicación CRUD de empleados" width="800"/>
-</p>
+
 
 ---
 
