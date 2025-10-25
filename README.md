@@ -66,3 +66,7 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
 2.  Navega a la carpeta del proyecto.
 3.  Abre el archivo `index.html` directamente en tu navegador.
 ````
+
+## 🖥️ Vista Previa
+
+![Captura de pantalla de la aplicación CRUD](assets/screenshot-crud.png)
