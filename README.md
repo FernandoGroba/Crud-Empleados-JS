@@ -70,4 +70,4 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
 ## 🖥️ Vista Previa
 
 
-![Captura del CRUD de Empleados](screencapture-127-0-0-1-5500-index-html-2025-10-25-13_03_17.png)
+![Captura del CRUD de Empleados](prevista.png)
