@@ -70,4 +70,4 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
 ## 🖥️ Vista Previa
 
 
-![Captura del CRUD de Empleados](prevista.png)
+(prevista.png)
