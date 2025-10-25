@@ -69,4 +69,7 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
 
 ## 🖥️ Vista Previa
 
-![Captura de pantalla de la aplicación CRUD](assets/screenshot-crud.png)
+
+## 🖥️ Vista Previa
+
+screencapture-127-0-0-1-5500-index-html-2025-10-25-13_03_17.png
