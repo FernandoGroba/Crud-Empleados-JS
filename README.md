@@ -70,5 +70,5 @@ Este es un proyecto puramente *frontend* y no requiere ninguna configuración de
 ## 🖥️ Vista Previa
 
 <p align="center">
-  <img src="preview.png" alt="Captura del CRUD de Empleados" width="750"/>
+  <img src="prevista.png" alt="Captura del CRUD de Empleados" width="750"/>
 </p>
